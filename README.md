@@ -15,3 +15,8 @@ Using "compute_wfunc.py" to compute the spatial intensity pattern for each reson
 Added stadium-shaped cavity in "domain.py".
 
 Next step is making a general class for those cavities defined in polar coordinate and reducing the computational consuming by using the symmetry.
+
+### 2023.9.21
+
+Added "domainPolar.py".
+The methods defined in class SingleCavityPolar can be generally applied to other cavities whose boundaries are defined in polar coordinate.
